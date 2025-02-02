@@ -108,6 +108,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Tailwind CSS](https://tailwindcss.com/)
 - [react-dnd](https://react-dnd.github.io/react-dnd/)
 
----
-
-**Created with ❤️ by [Your Name]**
